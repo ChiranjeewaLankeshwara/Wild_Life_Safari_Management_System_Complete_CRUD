@@ -136,3 +136,16 @@
     </div>
 </section>
 <!-- reviews section ends -->
+
+<!-- footer section starts -->
+<section class="footer">
+
+    <div class="box-container">
+
+        <div class="box">
+            <h3>Quick links</h3>
+            <a href="home.php"><i class="fas fa-angle-right"></i>Home</a>
+            <a href="about.php"><i class="fas fa-angle-right"></i>About Us</a>
+            <a href="package.php"><i class="fas fa-angle-right"></i>Offers & Packages</a>
+            <a href="book.php"><i class="fas fa-angle-right"></i>Reservations</a>
+        </div>
