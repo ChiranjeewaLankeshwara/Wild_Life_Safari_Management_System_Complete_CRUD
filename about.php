@@ -69,3 +69,70 @@
     </div>
 </section>
 <!-- about section ends -->
+
+<!-- reviews section starts -->
+
+<section class="reviews">
+    <div class="swiper reviews-slider">
+        <div class="swiper-wrapper">
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <p>"Safari Lanka exceeded all my expectations! The personalized itinerary allowed us to see so much wildlife, including leopards and elephants. Our guide was incredibly knowledgeable and made the experience truly unforgettable." </p>
+                    <h3>Jake Hunter</h3>
+                    <span>traveler</span>
+                    <img src="images/review1.jpg" alt="traveler">
+                </div>
+            </div>
+            
+
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <p>"I highly recommend Safari Lanka for anyone looking for a well-organized and responsible safari adventure in Sri Lanka. The attention to detail and commitment to conservation were evident throughout our trip." </p>
+                    <h3>Julie hampson</h3>
+                    <span>explorer</span>
+                    <img src="images/review3.jpg" alt="traveler">
+                </div>
+            </div>
+
+                         
+
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <p>"Our family had an amazing time with Safari Lanka. The kids were thrilled to see wild animals in their natural habitat, and we felt safe and well-informed throughout the journey. Can't wait to come back!" </p>
+                    <h3>lorie carl & perk cartson</h3>
+                    <span>travelers</span>
+                    <img src="images/review4.jpg" alt="traveler">
+                </div>
+            </div>
+
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <p>"Booking with Safari Lanka was the best decision. They took care of everything, from arranging accommodations to ensuring we had the best wildlife sightings. It was a seamless and enriching experience." </p>
+                    <h3>Kate jordan</h3>
+                    <span>traveler</span>
+                    <img src="images/review5.jpg" alt="traveler">
+                </div>
+            </div>
+             
+        </div>
+    </div>
+</section>
+<!-- reviews section ends -->
